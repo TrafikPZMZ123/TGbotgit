@@ -1,2 +1,2 @@
-token = '7290241829:AAHjDHRcAFmRMI0VThdgvMHnALbmbxEMO0M' #Токен бота
+token = '' #Токен бота
 operating_system = 'Windows'  # Укажите здесь операционную систему, на которой будет запускаться ваш бот
